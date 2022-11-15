@@ -1,6 +1,7 @@
 Nomenclature
 ============
 
+
 .. list-table:: Eléments surfaciques
    :header-rows: 1
 
@@ -57,7 +58,7 @@ Nomenclature
      - Chemins et voies
    * - |image58|
      - Limites de substitution
-   * - |image60|
+   * - |nomenclature_007|
      - Limites non-exploitables
    * - |image62|
      - Autoroute
@@ -80,7 +81,7 @@ Nomenclature
    :width: 2cm
 .. |nomenclature_012| image:: ./img/nomenclature_012.png
    :width: 2cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_007| image:: ./img/nomenclature_007.png
    :width: 2cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
    :width: 2cm
