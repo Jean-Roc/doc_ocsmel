@@ -1,53 +1,49 @@
 Nomenclature
 ============
 
-Test
-
 .. list-table:: Eléments surfaciques
    :header-rows: 1
 
-	* - symbole
-	  - libellé
-	* - |nomenclature_001|
-	  - Bâtiment
-	* - |image53|
-	  - Bâtiment secondaire
-	* - |nomenclature_004|
-	  - Bâtiment en élévation
-	* - |nomenclature_005|
-	  - Bâtiment en élévation avec occupation
-	* - |nomenclature_006|
-	  - Edifice public
-	* - |nomenclature_008|
-	  - Edifice religieux
-	* - |nomenclature_009|
-	  - Station de métro
-	* - |nomenclature_010|
-	  - Ilot
-	* - |nomenclature_011|
-	  - Plan d’eau
-	* - |nomenclature_012|
-	  - Piscine
-	* - |image67|
-	  - Parking
-	* - |image68|
-	  - Ilot directionnel
-	* - |image69|
-	  - Ouvrage d’art
-	* - |image70|
-	  - Cimetière militaire
-	* - |image71|
-	  - Cimetière
-	* - |image72|
-	  - Terrain de football
-	* - |image73|
-	  - Terrain de tennis
-	* - |image74|
-	  - Terrain de sport
-	* - |image75|
-	  - Complexe sportif ou aire de loisir
-
-Retest
+   * - symbole
+     - libellé
+   * - |nomenclature_001|
+     - Bâtiment
+   * - |image53|
+     - Bâtiment secondaire
+   * - |nomenclature_004|
+     - Bâtiment en élévation
+   * - |nomenclature_005|
+     - Bâtiment en élévation avec occupation
+   * - |nomenclature_006|
+     - Edifice public
+   * - |nomenclature_008|
+     - Edifice religieux
+   * - |nomenclature_009|
+     - Station de métro
+   * - |nomenclature_010|
+     - Ilot
+   * - |nomenclature_011|
+     - Plan d’eau
+   * - |nomenclature_012|
+     - Piscine
+   * - |image67|
+     - Parking
+   * - |image68|
+     - Ilot directionnel
+   * - |image69|
+     - Ouvrage d’art
+   * - |image70|
+     - Cimetière militaire
+   * - |image71|
+     - Cimetière
+   * - |image72|
+     - Terrain de football
+   * - |image73|
+     - Terrain de tennis
+   * - |image74|
+     - Terrain de sport
+   * - |image75|
+     - Complexe sportif ou aire de loisir
 
 .. list-table:: Eléments linéaires
    :header-rows: 1
@@ -64,7 +60,7 @@ Retest
      - Limites non-exploitables
    * - |image62|
      - Autoroute
-	 
+     
 .. |nomenclature_001| image:: ./img/nomenclature_001.png
    :width: 1cm
 .. |nomenclature_005| image:: ./img/nomenclature_005.png
