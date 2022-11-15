@@ -1,6 +1,7 @@
 Nomenclature
 ============
 
+Test
 
 .. list-table:: Eléments surfaciques
    :header-rows: 1
@@ -46,6 +47,7 @@ Nomenclature
 	* - |image75|
 	  - Complexe sportif ou aire de loisir
 
+Retest
 
 .. list-table:: Eléments linéaires
    :header-rows: 1
@@ -64,39 +66,39 @@ Nomenclature
      - Autoroute
 	 
 .. |nomenclature_001| image:: ./img/nomenclature_001.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_005| image:: ./img/nomenclature_005.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_006| image:: ./img/nomenclature_006.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_004| image:: ./img/nomenclature_004.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_008| image:: ./img/nomenclature_008.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_009| image:: ./img/nomenclature_009.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_010| image:: ./img/nomenclature_010.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_011| image:: ./img/nomenclature_011.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_012| image:: ./img/nomenclature_012.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_007| image:: ./img/nomenclature_007.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
-   :width: 2cm
+   :width: 1cm
 .. |nomenclature_00| image:: ./img/nomenclature_0.png
-   :width: 2cm
+   :width: 1cm
    
