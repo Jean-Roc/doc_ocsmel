@@ -6,25 +6,25 @@ Nomenclature
 
 	* - symbole
 	  - libellé
-	* - |image51|
+	* - |nomenclature_001|
 	  - Bâtiment
 	* - |image53|
 	  - Bâtiment secondaire
-	* - |image55|
+	* - |nomenclature_004|
 	  - Bâtiment en élévation
-	* - |image57|
+	* - |nomenclature_005|
 	  - Bâtiment en élévation avec occupation
-	* - |image59|
+	* - |nomenclature_006|
 	  - Edifice public
-	* - |image61|
+	* - |nomenclature_008|
 	  - Edifice religieux
-	* - |image63|
+	* - |nomenclature_009|
 	  - Station de métro
-	* - |image64|
+	* - |nomenclature_010|
 	  - Ilot
-	* - |image65|
+	* - |nomenclature_011|
 	  - Plan d’eau
-	* - |image66|
+	* - |nomenclature_012|
 	  - Piscine
 	* - |image67|
 	  - Parking
@@ -62,3 +62,40 @@ Nomenclature
    * - |image62|
      - Autoroute
 	 
+.. |nomenclature_001| image:: ./img/nomenclature_001.png
+   :width: 2cm
+.. |nomenclature_005| image:: ./img/nomenclature_005.png
+   :width: 2cm
+.. |nomenclature_006| image:: ./img/nomenclature_006.png
+   :width: 2cm
+.. |nomenclature_004| image:: ./img/nomenclature_004.png
+   :width: 2cm
+.. |nomenclature_008| image:: ./img/nomenclature_008.png
+   :width: 2cm
+.. |nomenclature_009| image:: ./img/nomenclature_009.png
+   :width: 2cm
+.. |nomenclature_010| image:: ./img/nomenclature_010.png
+   :width: 2cm
+.. |nomenclature_011| image:: ./img/nomenclature_011.png
+   :width: 2cm
+.. |nomenclature_012| image:: ./img/nomenclature_012.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+.. |nomenclature_00| image:: ./img/nomenclature_0.png
+   :width: 2cm
+   
