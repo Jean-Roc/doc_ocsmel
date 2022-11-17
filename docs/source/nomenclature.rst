@@ -8,7 +8,7 @@ Nomenclature
      - libellé
    * - |nomenclature_001|
      - Bâtiment
-   * - |image53|
+   * - |nomenclature_003|
      - Bâtiment secondaire
    * - |nomenclature_004|
      - Bâtiment en élévation
@@ -26,23 +26,23 @@ Nomenclature
      - Plan d’eau
    * - |nomenclature_012|
      - Piscine
-   * - |image67|
+   * - |nomenclature_013|
      - Parking
-   * - |image68|
+   * - |nomenclature_014|
      - Ilot directionnel
-   * - |image69|
+   * - |nomenclature_015|
      - Ouvrage d’art
-   * - |image70|
+   * - |nomenclature_016|
      - Cimetière militaire
-   * - |image71|
+   * - |nomenclature_017|
      - Cimetière
-   * - |image72|
+   * - |nomenclature_018|
      - Terrain de football
-   * - |image73|
+   * - |nomenclature_019|
      - Terrain de tennis
-   * - |image74|
+   * - |nomenclature_020|
      - Terrain de sport
-   * - |image75|
+   * - |nomenclature_021|
      - Complexe sportif ou aire de loisir
 
 .. list-table:: Eléments linéaires
@@ -50,15 +50,15 @@ Nomenclature
 
    * - symbole
      - libellé
-   * - |image52|
+   * - |nomenclature_002|
      - Fossé
-   * - |image56|
+   * - |nomenclature_002|
      - Chemins et voies
-   * - |image58|
+   * - |nomenclature_002|
      - Limites de substitution
    * - |nomenclature_007|
      - Limites non-exploitables
-   * - |image62|
+   * - |nomenclature_002|
      - Autoroute
      
 .. |nomenclature_001| image:: ./img/nomenclature_001.png
@@ -81,20 +81,21 @@ Nomenclature
    :width: 1cm
 .. |nomenclature_007| image:: ./img/nomenclature_007.png
    :width: 1cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_003| image:: ./img/nomenclature_003.png
    :width: 1cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_016| image:: ./img/nomenclature_016.png
    :width: 1cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_013| image:: ./img/nomenclature_013.png
    :width: 1cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_014| image:: ./img/nomenclature_014.png
    :width: 1cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_018| image:: ./img/nomenclature_018.png
    :width: 1cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_019| image:: ./img/nomenclature_019.png
    :width: 1cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_020| image:: ./img/nomenclature_020.png
    :width: 1cm
-.. |nomenclature_00| image:: ./img/nomenclature_0.png
+.. |nomenclature_021| image:: ./img/nomenclature_021.png
    :width: 1cm
-   
+.. |nomenclature_002| image:: ./img/nomenclature_002.png
+   :width: 1cm   
